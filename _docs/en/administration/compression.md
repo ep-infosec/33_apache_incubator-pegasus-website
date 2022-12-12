@@ -1,0 +1,5 @@
+---
+permalink: administration/compression
+---
+
+TRANSLATING

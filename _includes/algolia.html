@@ -1,0 +1,10 @@
+<script src="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.js"></script>
+
+<script>
+    docsearch({
+        indexName: '{{ site.algolia.index_name }}',
+        apiKey: '{{ site.algolia.search_only_api_key }}',
+        inputSelector: '.searchbox-input',
+        debug: true,
+    });
+</script>

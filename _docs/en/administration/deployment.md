@@ -1,0 +1,5 @@
+---
+permalink: administration/deployment
+---
+
+TRANSLATING

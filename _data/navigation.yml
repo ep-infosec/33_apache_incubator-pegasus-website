@@ -1,0 +1,20 @@
+- name: title_community
+  link: /community
+  icon: fas fa-user-plus
+  items:
+  - name: title_contact
+    link: /community/#contact-us
+  - name: title_contribution
+    link: /community/#contribution
+  - name: title_coding-guides
+    link: https://cwiki.apache.org/confluence/display/PEGASUS/Coding+guides
+  - name: title_bug-tracking
+    link: https://github.com/apache/incubator-pegasus/issues?q=is%3Aissue+is%3Aopen+label%3Atype%2Fbug
+  - name: title_apache-proposal
+    link: https://cwiki.apache.org/confluence/display/INCUBATOR/PegasusProposal
+- name: title_blog
+  link: /blogs
+  icon: fas fa-rss
+- name: title_releases
+  icon: fas fa-fire
+  link: /docs/downloads

@@ -1,0 +1,100 @@
+- name: title_docs
+  items:
+    - name: title_downloads
+      link: /docs/downloads
+- name: title_build_pegasus
+  items:
+    - name: title_compile-by-docker
+      link: /docs/build/compile-by-docker
+    - name: title_compile-from-source
+      link: /docs/build/compile-from-source
+- name: title_clients
+  items:
+    - name: title_java-client
+      link: /clients/java-client
+    - name: title_cpp-client
+      link: /clients/cpp-client
+    - name: title_go-client
+      link: https://github.com/XiaoMi/pegasus-go-client
+    - name: title_python2-client
+      link: /clients/python2-client
+    - name: title_python3-client
+      link: /clients/python3-client
+    - name: title_node-client
+      link: /clients/node-client
+    - name: title_scala-client
+      link: /clients/scala-client
+- name: title_tools
+  items:
+    - name: title_shell
+      link: /docs/tools/shell
+    - name: title_admin_cli
+      link: https://github.com/pegasus-kv/admin-cli
+    - name: title_pegic
+      link: https://github.com/pegasus-kv/pegic
+- name: title_api
+  items:
+    - name: title_ttl
+      link: /api/ttl
+    - name: title_single-atomic
+      link: /api/single-atomic
+    - name: title_redis
+      link: /api/redis
+    - name: title_geo
+      link: /api/geo
+    - name: title_http
+      link: /api/http
+- name: title_administration
+  items:
+    - name: title_deployment
+      link: /administration/deployment
+    - name: title_config
+      link: /administration/config
+    - name: title_rebalance
+      link: /administration/rebalance
+    - name: title_monitoring
+      link: /administration/monitoring
+    - name: title_rolling-update
+      link: /administration/rolling-update
+    - name: title_scale-in-out
+      link: /administration/scale-in-out
+    - name: title_resource-management
+      link: /administration/resource-management
+    - name: title_cold-backup
+      link: /administration/cold-backup
+    - name: title_meta-recovery
+      link: /administration/meta-recovery
+    - name: title_replica-recovery
+      link: /administration/replica-recovery
+    - name: title_zk-migration
+      link: /administration/zk-migration
+    - name: title_table-migration
+      link: /administration/table-migration
+    - name: title_table-soft-delete
+      link: /administration/table-soft-delete
+    - name: title_table-env
+      link: /administration/table-env
+    - name: title_remote-commands
+      link: /administration/remote-commands
+    - name: title_partition-split
+      link: /administration/partition-split
+    - name: title_duplication
+      link: /administration/duplication
+    - name: title_compression
+      link: /administration/compression
+    - name: title_throttling
+      link: /administration/throttling
+    - name: title_experiences
+      link: /administration/experiences
+    - name: title_manual-compact
+      link: /administration/manual-compact
+    - name: title_usage-scenario
+      link: /administration/usage-scenario
+    - name: title_bad-disk
+      link: /administration/bad-disk
+    - name: title_whitelist
+      link: /administration/whitelist
+    - name: title_backup-request
+      link: /administration/backup-request
+    - name: title_hotspot-detection
+      link: /administration/hotspot-detection

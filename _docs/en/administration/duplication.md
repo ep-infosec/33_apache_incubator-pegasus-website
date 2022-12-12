@@ -1,0 +1,5 @@
+---
+permalink: administration/duplication
+---
+
+TRANSLATING

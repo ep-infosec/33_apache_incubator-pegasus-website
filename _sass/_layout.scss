@@ -1,0 +1,67 @@
+.content {
+    ul.pagination-list {
+        list-style: none;
+        margin-left: 0;
+        margin-top: 0;
+
+        li+li {
+            margin-top: 0;
+        }
+    }
+}
+
+.content-toc {
+    box-shadow: $box-shadow;
+    padding: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.blog-post-meta {
+    margin-bottom: 2rem;
+    color: #6a737d;
+    list-style: none !important;
+    margin-left: 0 !important;
+}
+
+.blog-post-meta-item {
+    padding-right: 1rem;
+    display: inline-block;
+}
+
+.project-title {
+    font-family: 'Patua One', cursive;
+}
+
+.project-subtitle {
+    padding-bottom: 1rem;
+}
+
+.contributor-item-icon {
+    margin-bottom: 1.5rem;
+}
+
+.front-github-button {
+    border-radius: 0;
+}
+
+.front-start-button {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: 0;
+}
+
+.navbar-searchbox input {
+    background: inherit;
+    box-shadow: none;
+    border: 0;
+    border-radius: 0;
+    color: #363636;
+}
+.navbar-searchbox input:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.algolia-autocomplete {
+    width: 100%;
+}
